@@ -1,0 +1,14 @@
+{
+  "ingest_date": "2026-01-21",
+  "total_videos": 10,
+  "total_comments": 20,
+  "video_sentiment_counts": {
+    "positive": 10
+  },
+  "comment_sentiment_counts": {
+    "positive": 9,
+    "neutral": 10,
+    "negative": 1
+  },
+  "generated_at_utc": "2026-01-21T23:35:39.424941Z"
+}
